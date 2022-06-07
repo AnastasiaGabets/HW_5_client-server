@@ -13,12 +13,25 @@ https://habr.com/ru/post/50147/
 4) HTTP статус коды сервера
 https://zametkinapolyah.ru/servera-i-protokoly/tema-9-http-kody-sostoyaniya-klassy-kodov-sostoyaniya-http-servera.html
 https://zametkinapolyah.ru/servera-i-protokoly/uspeshnye-kody-sostoyaniya-http-servera-200-201-202-203-204-205-206.html
-
-
-
+https://zametkinapolyah.ru/servera-i-protokoly/http-kody-sostoyaniya-perenapravleniya-300-301-302-303-304-305-306-307.html
+https://zametkinapolyah.ru/servera-i-protokoly/http-kody-oshibok-klienta.html
+https://zametkinapolyah.ru/servera-i-protokoly/http-kody-oshibok-servera-500-501-502-503-504-505.html
 
 5) Что такое ядро браузера 
+https://habr.com/ru/post/349512/
+
+С браузерными движками дела обстоят кардинально иначе. Вот список движков, их разработчиков и обладателей:
+
+
+Blink: Google
+Gecko: Mozilla
+WebKit: Apple
+EdgeHTML: Microsoft
+Google — Chromium. Данный проект содержит в себе движок Blink. Создавать данный проект Google помогают такие компании как Intel, Facebook, IBM, LG Electronics, NVIDIA, Yandex.
+
 6) Какие браузеры какие ядра используют
+
+
 7) Что такое API
 8. Что такое ендпоинты
 9) URL (URI, URL, URN)
