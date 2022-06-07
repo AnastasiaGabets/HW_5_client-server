@@ -5,15 +5,26 @@ Client_Server
 https://www.youtube.com/watch?v=wLHuviTWnuY
 
 2) Что такое HTTP и HTTPS
+https://www.youtube.com/watch?v=C9T_7D12URI
 
 3) HTTP методы
+https://habr.com/ru/post/50147/
+
 4) HTTP статус коды сервера
+https://zametkinapolyah.ru/servera-i-protokoly/tema-9-http-kody-sostoyaniya-klassy-kodov-sostoyaniya-http-servera.html
+https://zametkinapolyah.ru/servera-i-protokoly/uspeshnye-kody-sostoyaniya-http-servera-200-201-202-203-204-205-206.html
+
+
+
+
 5) Что такое ядро браузера 
 6) Какие браузеры какие ядра используют
 7) Что такое API
 8. Что такое ендпоинты
 9) URL (URI, URL, URN)
 10) Идемпотентные HTTP методы
+К идемпотентным методам относятся следующие HTTP методы: GET, HEAD, PUT и DELETE. Так же эффектом идемпотентности обладают HTTP методы OPTIONS и TRACE.
+
 11) Безопасные HTTP методы
 12) Иденфикация, Аутентификация, Авторизация
 13) Что такое IP
